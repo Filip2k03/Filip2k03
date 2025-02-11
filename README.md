@@ -57,9 +57,11 @@ Studying in this moment:
 
 Here are some of my notable projects:
 
-*   **[Project Name 1]([[Project Link](https://thuyakyaw.vercel.app/)]):**  A brief and engaging description of the project (1-2 lines). Highlight the key technologies used and the problem it solves. Include a screenshot or GIF if possible.
-*   **[Project Name 2]([Project Link]):**  A brief and engaging description of the project (1-2 lines). Highlight the key technologies used and the problem it solves. Include a screenshot or GIF if possible.
-*   **[Project Name 3]([Project Link]):**  A brief and engaging description of the project (1-2 lines). Highlight the key technologies used and the problem it solves. Include a screenshot or GIF if possible.
+*   **[Portfolio with html css](https://thuyakyaw.vercel.app/):** A brief and engaging description of the project (1-2 lines). Highlight the key technologies used and the problem it solves. Include a screenshot or GIF if possible. *(You'll need to fill in the project description here)*
+*   **[Chat App](http://chatapp.talkprivate.au.tempcloudsite.com/):** A brief and engaging description of the project (1-2 lines). Highlight the key technologies used and the problem it solves. Include a screenshot or GIF if possible. *(You'll need to fill in the project description here)*
+*   **[Food Fusion](https://github.com/Filip2k03/food-fusion-php):** A brief and engaging description of the project (1-2 lines). Highlight the key technologies used and the problem it solves. Include a screenshot or GIF if possible. *(You'll need to fill in the project description here)*
+
+---
 
 Visitors Count
 
