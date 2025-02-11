@@ -1,54 +1,58 @@
-# Hi there! 👋 I'm Stephan Filip
+👋 Hi, I’m Stephan Filip.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[Your GitHub Username]&theme=dark&hide_border=true)](https://github.com/Filip2k03)
+👀 I’m interested in Django, React, React Native, and Next.js.
 
-A passionate and results-driven Web Developer specializing in crafting modern, user-friendly, and performant web applications.  I thrive on turning ideas into reality through clean, efficient code and a keen eye for design.
+🌱 I’m currently learning Django, Next.js, and React.
 
-## 🚀 Skills
+💞️ I’m collaborating on E-commerce, POS, and Business Websites.
 
-I'm proficient in the following technologies:
-
-*   **Front-end:** HTML5, CSS3, JavaScript (ES6+), React, Vue.js, Angular ,  TypeScript (if applicable), Responsive Design, UI/UX Principles
-*   **Back-end:** Node.js, Python ( frameworks like Django/Flask ), RESTful APIs, Databases (mention specific databases like PostgreSQL, MySQL, MongoDB, etc.)
-*   **Other:** Git, GitHub, Agile Methodologies, Testing (mention specific testing frameworks like Jest, Cypress, etc.), Cloud Platforms (mention AWS, Azure, Google Cloud if you have experience), Docker (if you use it)
-
-*(Feel free to customize this section with your specific skills and technologies.  Use emojis for visual appeal!)*
-
-## 💡 Projects
-
-Here are some of my notable projects:
-
-*   **[Project Name 1]([Project Link]):**  A brief and engaging description of the project (1-2 lines).  Highlight the key technologies used and the problem it solves.  Include a screenshot or GIF if possible.
-*   **[Project Name 2]([Project Link]):**  A brief and engaging description of the project (1-2 lines).  Highlight the key technologies used and the problem it solves.  Include a screenshot or GIF if possible.
-*   **[Project Name 3]([Project Link]):**  A brief and engaging description of the project (1-2 lines).  Highlight the key technologies used and the problem it solves.  Include a screenshot or GIF if possible.
-
-*(Add your projects here.  Prioritize your best and most relevant work.  If you have a portfolio website, link to it here as well.)*
-
-## 📚 Currently Learning
-
-I'm always eager to learn and expand my skillset. Currently, I'm exploring:
-
-*   [Technology/Skill 1]
-*   [Technology/Skill 2]
-*   [Technology/Skill 3]
-
-*(This section shows your commitment to continuous learning. Update it regularly.)*
-
-## 📫 Let's Connect
-
-*   **LinkedIn:** [Your LinkedIn Profile URL](Your LinkedIn Profile URL)
-*   **Twitter:** [Your Twitter Profile URL](Your Twitter Profile URL)
-*   **Email:** [Your Email Address]
-
-*(Include your preferred contact methods.)*
-
-## ✨ Fun Facts (Optional)
-
-*   I'm a big fan of CR 7.
-*   I love coding.
-
-*(This section adds a personal touch to your profile.)*
+📫 You can reach me using the accounts described on my profile.
 
 ---
 
-Thanks for visiting my profile!  Feel free to reach out. 😊
+👨‍💻 Top Languages Used:
+
+*(Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.)*
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanFilip&layout=compact&langs_count=5&theme=dark)](https://github.com/StephanFilip)
+
+---
+
+⚙️ GitHub Analytics
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=StephanFilip&count_private=true&theme=dark&show_icons=true)](https://github.com/StephanFilip)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StephanFilip&theme=dark&hide_border=true)](https://github.com/StephanFilip)
+
+---
+
+Skills:
+
+**Front-end:** React, React Native, Next.js, HTML, CSS, JavaScript
+
+**Back-end:** Django, Python, Node.js
+
+**Database:** PostgreSQL, MySQL, MongoDB *(Add others as needed)*
+
+**Hosting/SaaS:** AWS, Heroku, Netlify, Vercel *(Add others as needed)*
+
+**Version Control:** Git, GitHub
+
+**Server:** Linux, Nginx *(Add others as needed)*
+
+**Other:** Agile Methodologies, RESTful APIs, UI/UX Principles *(Add others as needed)*
+
+**OS:**  Windows, macOS, Linux *(Add others as needed)*
+
+---
+
+Studying in this moment:
+
+*   Django
+*   Next.js
+*   React
+
+---
+
+Visitors Count
+
+[![Visitor Count](https://komarev.com/ghpvc/?username=StephanFilip&color=blue)](https://github.com/StephanFilip)
