@@ -14,14 +14,14 @@
 
 *(Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.)*
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanFilip&layout=compact&langs_count=5&theme=dark)](https://github.com/Filip2k03)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filip2k03&layout=compact&langs_count=5&theme=dark)](https://github.com/Filip2k03)
 
 ---
 
 ⚙️ GitHub Analytics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=StephanFilip&count_private=true&theme=dark&show_icons=true)](https://github.com/Filip2k03)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StephanFilip&theme=dark&hide_border=true)](https://github.com/Filip2k03)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Filip2k03&count_private=true&theme=dark&show_icons=true)](https://github.com/Filip2k03)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Filip2k03&theme=dark&hide_border=true)](https://github.com/Filip2k03)
 
 ---
 
@@ -41,7 +41,7 @@ Skills:
 
 **Other:** Agile Methodologies, RESTful APIs, UI/UX Principles *(Add others as needed)*
 
-**OS:**  Windows, macOS, Linux *(Add others as needed)*
+**OS:** Windows, macOS, Linux *(Add others as needed)*
 
 ---
 
@@ -55,4 +55,4 @@ Studying in this moment:
 
 Visitors Count
 
-[![Visitor Count](https://komarev.com/ghpvc/?username=StephanFilip&color=blue)](https://github.com/Filip2k03)
+[![Visitor Count](https://komarev.com/ghpvc/?username=Filip2k03&color=blue)](https://github.com/Filip2k03)
