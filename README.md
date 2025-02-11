@@ -14,14 +14,14 @@
 
 *(Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.)*
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanFilip&layout=compact&langs_count=5&theme=dark)](https://github.com/StephanFilip)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanFilip&layout=compact&langs_count=5&theme=dark)](https://github.com/Filip2k03)
 
 ---
 
 ⚙️ GitHub Analytics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=StephanFilip&count_private=true&theme=dark&show_icons=true)](https://github.com/StephanFilip)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StephanFilip&theme=dark&hide_border=true)](https://github.com/StephanFilip)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=StephanFilip&count_private=true&theme=dark&show_icons=true)](https://github.com/Filip2k03)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StephanFilip&theme=dark&hide_border=true)](https://github.com/Filip2k03)
 
 ---
 
