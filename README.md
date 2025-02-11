@@ -53,6 +53,14 @@ Studying in this moment:
 
 ---
 
+## 💡 Projects
+
+Here are some of my notable projects:
+
+*   **[Project Name 1]([[Project Link](https://thuyakyaw.vercel.app/)]):**  A brief and engaging description of the project (1-2 lines). Highlight the key technologies used and the problem it solves. Include a screenshot or GIF if possible.
+*   **[Project Name 2]([Project Link]):**  A brief and engaging description of the project (1-2 lines). Highlight the key technologies used and the problem it solves. Include a screenshot or GIF if possible.
+*   **[Project Name 3]([Project Link]):**  A brief and engaging description of the project (1-2 lines). Highlight the key technologies used and the problem it solves. Include a screenshot or GIF if possible.
+
 Visitors Count
 
 [![Visitor Count](https://komarev.com/ghpvc/?username=Filip2k03&color=blue)](https://github.com/Filip2k03)
