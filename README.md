@@ -39,7 +39,7 @@ Skills:
 
 **Server:** Linux, Nginx 
 
-**Other:** Agile Methodologies, RESTful APIs, UI/UX Principles *(Add others as needed)*
+**Other:** Agile Methodologies, RESTful APIs, UI/UX Principles 
 
 **OS:** Windows, macOS, Linux 
 
