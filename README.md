@@ -31,17 +31,17 @@ Skills:
 
 **Back-end:** Django, Python, Node.js
 
-**Database:** PostgreSQL, MySQL, MongoDB *(Add others as needed)*
+**Database:** PostgreSQL, MySQL, MongoDB
 
-**Hosting/SaaS:** AWS, Heroku, Netlify, Vercel *(Add others as needed)*
+**Hosting/SaaS:** AWS, Heroku, Netlify, Vercel 
 
 **Version Control:** Git, GitHub
 
-**Server:** Linux, Nginx *(Add others as needed)*
+**Server:** Linux, Nginx 
 
 **Other:** Agile Methodologies, RESTful APIs, UI/UX Principles *(Add others as needed)*
 
-**OS:** Windows, macOS, Linux *(Add others as needed)*
+**OS:** Windows, macOS, Linux 
 
 ---
 
